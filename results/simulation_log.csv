@@ -1,0 +1,11 @@
+timestamp,image_file,prediction,confidence,low_confidence_flag
+2025-10-01 17:46:23,plastic100.jpg,plastic,0.9617177248001099,False
+2025-10-01 17:46:24,plastic101.jpg,plastic,0.8741996884346008,False
+2025-10-01 17:46:25,plastic102.jpg,plastic,0.938327431678772,False
+2025-10-01 17:46:26,plastic103.jpg,plastic,0.9827532768249512,False
+2025-10-01 17:46:27,plastic104.jpg,plastic,0.737235426902771,True
+2025-10-01 17:46:28,plastic105.jpg,plastic,0.93858802318573,False
+2025-10-01 17:46:29,plastic106.jpg,plastic,0.9946393370628357,False
+2025-10-01 17:46:30,plastic107.jpg,plastic,0.526885986328125,True
+2025-10-01 17:46:31,plastic108.jpg,plastic,0.998216450214386,False
+2025-10-01 17:46:32,plastic109.jpg,plastic,0.757149338722229,True
