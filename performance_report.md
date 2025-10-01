@@ -35,6 +35,5 @@ The following report shows the precision, recall, and f1-score for each class.
 
 The confusion matrix provides a visual breakdown of the model's correct and incorrect predictions.
 
-Confusion Matrix:
 ![alt text](image-2.png)
 
